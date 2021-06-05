@@ -1,2 +1,3 @@
-# Python-Programs
-Basic to Intermediate level python programs I had done.
+# Python-Scripts
+
+Basic to Intermediate level python scripts I had done.
